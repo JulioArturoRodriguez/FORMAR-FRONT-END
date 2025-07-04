@@ -1,0 +1,25 @@
+{
+  "name": "formar-front-end",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000O\u0000R\u0000M\u0000A\u0000R\u0000-\u0000F\u0000R\u0000O\u0000N\u0000T\u0000-\u0000E\u0000N\u0000D\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioArturoRodriguez/FORMAR-FRONT-END.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioArturoRodriguez/FORMAR-FRONT-END/issues"
+  },
+  "homepage": "https://github.com/JulioArturoRodriguez/FORMAR-FRONT-END#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.6.3"
+  }
+}
