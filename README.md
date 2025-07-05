@@ -25,18 +25,27 @@
 ## 📁 Estructura del Proyecto
 
 ```
+
+.vite/
+.dist/
+node_modules/
 public/
-  └── vite.svg
+  ├── vite.svg
 src/
   ├── assets/
   │   └── react.svg
+  ├── App.css
   ├── App.jsx
   ├── index.css
   ├── main.jsx
+.gitignore
+eslint.config.js
 index.html
+package-lock.json
 package.json
-vite.config.js
 README.md
+vite.config.js
+
 ```
 
 ---
