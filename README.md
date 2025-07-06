@@ -143,5 +143,10 @@ export default function App() {
 ![Captura 3](foto/Captura%20de%20pantalla%202025-07-06%20002149.png)
 ![Captura 4](foto/Captura%20de%20pantalla%202025-07-06%20002204.png)
 ![Captura 5](foto/Captura%20de%20pantalla%202025-07-06%20002516.png)
+![Captura 6](foto/Captura%20de%20pantalla%202025-07-06%20004612.png)
+
+
+## SUBI EL BACK PARA MOSTRAR LA BBDD Y QUE SE SEPA CON QUE DATOS LLENAR EL FORMULARIO
+
 
 
