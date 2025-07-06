@@ -135,3 +135,13 @@ export default function App() {
 * Navegador compatible para probar localmente
 
 ---
+
+## 📲 Aplicación funcionando
+
+![Captura 1](foto/Captura%20de%20pantalla%202025-07-06%20002002.png)
+![Captura 2](foto/Captura%20de%20pantalla%202025-07-06%20002045.png)
+![Captura 3](foto/Captura%20de%20pantalla%202025-07-06%20002149.png)
+![Captura 4](foto/Captura%20de%20pantalla%202025-07-06%20002204.png)
+![Captura 5](foto/Captura%20de%20pantalla%202025-07-06%20002516.png)
+
+
